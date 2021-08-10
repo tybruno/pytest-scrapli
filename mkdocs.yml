@@ -1,0 +1,10 @@
+site_name: pytest-scrapli
+site_description: Pytest plugin for scrapli
+site_author: Tyler Bruno
+
+theme: readthedocs
+
+repo_url: https://github.com/tybruno/pytest-scrapli
+
+pages:
+- Home: index.md
